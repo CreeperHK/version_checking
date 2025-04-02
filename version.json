@@ -1,0 +1,14 @@
+[
+  {
+    "name": "flask-supermarket",
+    "version": "1.2"
+  },
+  {
+    "name": "ron-calculator",
+    "version": "1"
+  },
+  {
+    "name": "mahjong-helper-withgui",
+    "version": "0.7"
+  }
+]
